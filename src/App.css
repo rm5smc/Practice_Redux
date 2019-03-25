@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+button.btn.btn-primary {
+  margin-bottom: 20px;
+}
+span.fa.fa-pencil.mr-5 {
+  margin: 3px;
+}
+span.fa.fa-trash.mr-5 {
+  margin: 3px;
+}
+.text-right{
+  margin-left:195px;
+  cursor: pointer;
+  
+}
+span.label.label-ranger {
+  background-color: red;
+}
